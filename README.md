@@ -1,4 +1,18 @@
 # Machine-Learning_Python
-constains the refrence material for some of my python libraries
+
+Constains the **refrence material** for some of my python libraries
+
+> Written by **Siddhant Sarkar**
+> rose_barrett_M95
+
 ## Contents
-* [Numpy]()
+
+- ### Data Processing
+  - **[Numpy](./Numpy.ipynb)**
+  - **[Pandas](./%20Pandas.ipynb)**
+- ### Data Visualization
+  - **[Matplotlib](./Matplotlib.ipynb)**
+  - **[Seaborn](./Seaborn.ipynb)**
+  - **[PandasVis](./PandasVis.ipynb)**
+  - **[Plotly](./Plotly.ipynb)**
+  - **[CluffLinks](./Clufflinks.ipynb)**
